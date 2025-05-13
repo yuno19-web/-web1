@@ -7,8 +7,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
  background-color: #eaf2f8;
-  text-align: left;
-
+text-align: right;
 }
 
 /* === الترويسة و الكلام الرئيسي === */
